@@ -31,3 +31,5 @@ print(sys.version)
 # Cek ketersediaan GPU
 import torch
 print("GPU tersedia:", torch.cuda.is_available())
+
+Demikian instruksi yang dapat dilakukan untuk menggunakan Google Colab. Sekian dan Terima kasih.
